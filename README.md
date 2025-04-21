@@ -19,7 +19,7 @@ initialize the virtual environment (venv) by typing:
 source venv/bin/activate
 
 ```
-Once you have made that type:
+Once you have made that, type:
 
 ```
 python3 Main_intarface.py
@@ -32,7 +32,7 @@ And you're good to go!
 Yes you can, it is stated in the MIT license.
 
 ## Can I contribute?
-Yes.
+Yes. 
 
 ## Any common bugs I should be aware of?
 An error will ocurr when you type anything but a number in the calculator, or when you try to divide by 0.
