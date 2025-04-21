@@ -38,6 +38,15 @@ Yes.
 An error will ocurr when you type anything but a number in the calculator, or when you try to divide by 0.
 I don't know any other bugs, if you find them, tag me on Mastodon with a photo of the error.
 
+## Does it have apps?
+Yes! it has a:
+-  calculator app
+-  files app (with a text editor)
+-  weather app
+-  snake game
+
+
+
 
 
 
