@@ -9,7 +9,7 @@ If you like the OS don't hesitate to drop a star and to follow me on my socials!
 
 
 ## How to access?
-**ATTENTION: The procidure is only made for Linux devices.**
+**Linux/MacOS version:**
 
 To access to the OS, you have to **Download** the .tar.gz file and **extract the Cobra OS folder**, then, head to the terminal and enter the folder. When you are in the folder,
 initialize the virtual environment (venv) by typing:
@@ -28,6 +28,21 @@ And you're good to go!
 
 (Yes, I know i misspelled interface)
 
+**Windows version:**
+
+It's similar to the previous method, you'll need to extract the folder (using the built-in software on Windows 11 or tools like WinRAR on any other version)
+then, open the Cobra OS folder with Powershell (works on version 5 and 7) and type:
+
+```
+.\venv\Scripts\Activate.ps1
+```
+after that you just need to type:
+
+```
+python .\Main_intarface.py
+```
+And that's it!
+
 ## Can I do whatever I want with the code?
 Yes you can, it is stated in the MIT license.
 
@@ -36,7 +51,7 @@ Yes.
 
 ## Any common bugs I should be aware of?
 An error will ocurr when you type anything but a number in the calculator, or when you try to divide by 0.
-I don't know any other bugs, if you find them, tag me on Mastodon with a photo of the error.
+I don't know any other bugs, if you find them, fix them :)
 
 ## Does it have apps?
 Yes! it has a:
